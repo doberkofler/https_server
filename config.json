@@ -1,0 +1,8 @@
+{
+  "port": 443,
+  "generateCentificate": true,
+  "users": [{
+    "username": "admin",
+    "password": "secret"
+  }]
+}
